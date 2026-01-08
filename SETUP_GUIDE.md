@@ -38,7 +38,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-**Note:** This may take several minutes as it downloads large ML models.
+
 
 ### 4. Download Data
 
